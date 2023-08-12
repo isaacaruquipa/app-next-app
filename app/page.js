@@ -1,6 +1,10 @@
 import Image from 'next/image'
 import styles from './page.module.css'
 
+function App(){
+	return <><h1> Tecnologias de seguridad informatica </h1> </>;
+}
+
 export default function Home() {
   return (
     <main className={styles.main}>
